@@ -1,0 +1,7 @@
+{
+  "name": "querylazy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
